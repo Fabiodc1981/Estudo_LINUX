@@ -1,6 +1,6 @@
 ## Escreva um roteiro que:
 
-1. Solicita ao usuário o nome de um diretório e, em seguida, ocria com o comando mkdir.
+1. Solicita ao usuário o nome de um diretório e, em seguida, cria com o comando mkdir.
 2. Alterações no novo diretório e exibição de onde ele está usando o comando pwd.
 3. usando o comando "touch", são criado vários arquivos vazios e o comando "ls" é executado
     neles para verificar se estão vazios.
