@@ -1,0 +1,7 @@
+## Escreva um roteiro que:
+
+Escreva um script que receba exatamente um argumento e o imprima na saída
+    padrão. Certifique-se de que o script gere uma mensagem de uso caso seja 
+    exacutado sem nenhum argumento
+
+## Tarefa extraída da LINUX FOUNDATION.
